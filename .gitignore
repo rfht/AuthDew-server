@@ -1,0 +1,9 @@
+CVS
+.vs
+/packages
+/AuthDew-server/obj
+/AuthDew-server/bin
+*.dll
+*.exe
+*.pdb
+*.zip 
